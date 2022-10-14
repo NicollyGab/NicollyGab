@@ -1,6 +1,6 @@
 ## Oie, eu sou a Nicolly Gabriele
 
-- 🌱 Estudando Html, Css, Javascript, React e Typescript
+- 🌱 Estudando Html, Css, Javascript
 - 😄 Pronouns: ela/dela
 
 <div align="center">
